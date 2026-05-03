@@ -1,7 +1,7 @@
 # Uncertainty-Regularized Domain Generalization for Cross-Site DAS Microseismic Detection in Enhanced Geothermal Systems
 
 **Paper:** "Uncertainty-Regularized Domain Generalization for Cross-Site DAS Microseismic Detection in Enhanced Geothermal Systems"  
-**Authors:** Shokor, Jafreezal Bin Jaafar (Senior Member, IEEE), and Irving Vitra Paputungan  
+**Authors:** Md Shokor A Rahaman, Jafreezal Bin Jaafar (Senior Member, IEEE), and Irving Vitra Paputungan  
 **Submitted to:** IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 ---
