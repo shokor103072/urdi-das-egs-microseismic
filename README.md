@@ -75,7 +75,7 @@ urdi-das-egs-microseismic/
 | Dataset | Status | DOI / URL | Notes |
 |---|---|---|---|
 | **Utah FORGE 3-2417** | ✅ Public | [OpenEI GDR submission 1747](https://gdr.openei.org/submissions/1747) | 494 samples, zero-shot eval |
-| **Cape EGS Frisco-2-P** | 🔒 Embargoed until Sept 2026 | [10.15121/2479174](https://doi.org/10.15121/2479174) | 3,974 samples, training |
+| **Cape EGS Frisco-2-P** | 🔒 Embargoed until Sept 2029 | [10.15121/2479174](https://doi.org/10.15121/2479174) | 3,974 samples, training |
 
 The Utah FORGE 3-2417 processing pipeline (`data_processing/phase0_forge_pipeline.py`) is fully reproducible from the public DOE/OpenEI Geothermal Data Repository submission. All preprocessing scripts for Frisco-2-P will be released upon dataset embargo expiry.
 
