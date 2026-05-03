@@ -65,11 +65,7 @@ urdi-das-egs-microseismic/
 │   └── phase5_agent.py             # Full pipeline + evaluation vs STA/LTA GT
 │
 ├── figures/
-│   └── regenerate_all_figures.py   # Reproduce all paper figures from saved results
-│
-└── paper/
-    ├── tnnls_paper_r1.tex           # LaTeX source (R1 revision)
-    └── references_r1.bib            # Bibliography (48 entries)
+   └── regenerate_all_figures.py   # Reproduce all paper figures from saved results
 ```
 
 ---
@@ -201,5 +197,5 @@ The Cape EGS Frisco-2-P dataset is under embargo until September 2026 (Fervo Ene
 ## Contact
 
 **Shokor** — Universiti Teknologi PETRONAS, Malaysia  
-Email: shokor@utp.edu.my  
+Email: shokor103072@gmail.com  
 GitHub: [shokor103072](https://github.com/shokor103072)
